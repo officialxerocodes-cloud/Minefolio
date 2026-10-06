@@ -1,5 +1,5 @@
-const SKILLS = ['HTML', 'CSS', 'JavaScript', 'Git', 'GitHub', 'C++', 'Python', 'Learning Tailwind CSS and React']
-const LIBRARIES = ['GSAP', 'Chart.js', 'tsParticles']
+const SKILLS = ['React', 'JavaScript', 'CSS', 'HTML', 'C++', 'Python', 'Git', 'Github']
+const LIBRARIES = ['Tailwind','GSAP', 'Chart.js', 'tsParticles']
 
 const H2 = 'mb-[1.2rem] w-full text-[2.2rem] font-medium md:text-[2.8rem]'
 

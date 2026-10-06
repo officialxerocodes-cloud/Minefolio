@@ -4,7 +4,7 @@ const EDUCATION = [
     school: 'Netaji Subhas University of Technology',
     degree: 'B.Tech',
     branch: 'Information Technology',
-    score: 'CGPA: 8.4',
+    score: 'CGPA: 8.63',
   },
   {
     icon: 'fa-school',
